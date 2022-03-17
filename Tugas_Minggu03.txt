@@ -1,4 +1,4 @@
 Hello World!
-Nama	: Muhammad Fauzan
-NIM		: 1301204251
-Kelas	: IF-44-GAB03 [WDU]
+Nama: Muhammad Fauzan
+NIM: 1301204251
+Kelas: IF-44-GAB03 [WDU]
